@@ -4,10 +4,12 @@ We also explore the use of a machine learning model, Scikit-learn, to predict fu
 
 Python code is developed for this purpose. The Python code is developed in a Linux RedHat environment.
 
-Data preprocess: parse.py
+- Data preprocess: parse.py
 
-Generate Q&A pairs : q_and_a.py
+- Generate Q&A pairs : q_and_a.py
 
-Generate summary: summary.py
+- Generate summary: summary.py
 
-Translate into other languages: translate.py
+- Translate into other languages: translate.py
+
+- converts text output into MP3 : voice.py
