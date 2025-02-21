@@ -10,3 +10,4 @@ Python code is developed for this purpose. The Python code is developed in a Lin
 - Translate into other languages: translate.py
 - Converts text output into MP3 : voice.py
 - Detect misinformation in the input : check_fake_info.py
+- Predict future tax : future_tax.py 
